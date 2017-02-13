@@ -6,4 +6,4 @@
 
 // 4 - Console log the word Spain by using the substring method
 
-// 5 - Append the value ". The end." to the phrase variable. 
+// 5 - Append the value ". The end." to the phrase variable.

@@ -6,6 +6,7 @@ phrase = 'The rain in Spain falls gently on the plain';
 console.log(phrase.length);
 // 4 - Console log the word Spain by using the substring method
 console.log(phrase[12]+phrase[13]+phrase[14]+phrase[15]+phrase[16]);
+console.log(phrase.substring(12, 17)); //  Ha!  I forgot about substring!
 // 5 - Append the value ". The end." to the phrase variable.
 phrase = phrase + '. The end.';
 

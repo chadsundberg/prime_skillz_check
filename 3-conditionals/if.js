@@ -8,7 +8,7 @@ if (first == second) {
   console.log("Hello");
 } else {
   console.log("Goodbye");
-};
+}
 // 2 - Expand your answer above to
 // console log "Goodbye" if
 // the variables are not equal
